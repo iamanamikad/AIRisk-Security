@@ -54,5 +54,30 @@ Sector-based
   
     European Union's General Data Protection Regulation (GDPR) for data privacy
 
+Geographical-based
+
+  Europe
+    
+    EU AI Act
+    
+    Germany's AI Strategy 
+    
+    France's Algorithmic Trust Label
+    
+  United States
+  
+    Executive Order on Artificial Intelligence
+    
+    National Artificial Intelligence Research and Development Strategic Plan
+    
+  China
+    
+    China invested heavily in AI development and has issued various policy papers and guidelines, but lacks a unified regulatory framework.
+    
+    Japan (TBD)
+    
+    South Korea (TBD)
+  
+
   
   
