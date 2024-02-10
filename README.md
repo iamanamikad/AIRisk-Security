@@ -3,8 +3,6 @@ Resources for Managing Risk and Security in the AI World
 
 **Global Frameworks**
   
-    NIST AI Risk Management Framework - https://www.nist.gov/itl/ai-risk-management-framework
-  
     OECD AI Principles developed by the Organisation for Economic Co-operation and Development - https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf
   
     Montreal Declaration for Responsible AI - no link
@@ -39,6 +37,8 @@ Resources for Managing Risk and Security in the AI World
 **Regulatory Frameworks**
 
 Risk-based
+    
+    NIST AI Risk Management Framework - https://www.nist.gov/itl/ai-risk-management-framework
 
     European Union AI ACT
   
