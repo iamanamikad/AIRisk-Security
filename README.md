@@ -24,6 +24,7 @@ Resources for Managing Risk and Security in the AI World
   
 
 **AI Bias Frameworks**
+
   These frameworks guide identifying and mitigating bias in AI systems, addressing potential discrimination and unfair outcomes
   
   White House Framework for Advancing Equity in Artificial Intelligence - no link
