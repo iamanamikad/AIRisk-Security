@@ -79,5 +79,13 @@ Geographical-based
     South Korea (TBD)
   
 
+**AI News**
+
+  Global Partnership on Artificial Intelligence (GPAI) - https://gpai.ai/
+
+  Partnership on AI - https://partnershiponai.org/
+
+  World Economic Forum - https://initiatives.weforum.org/ai-governance-alliance/home 
+
   
   
