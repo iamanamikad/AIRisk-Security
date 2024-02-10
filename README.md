@@ -77,18 +77,19 @@ Geographical-based
     Japan (TBD)
     
     South Korea (TBD)
+    
+**
+Areas of Concern (source: Gemini AI by Google)**
 
-Areas of Concern (source: Gemini AI by Google)
+    Data privacy and security: Protecting personal data used in AI development and deployment.
 
-  Data privacy and security: Protecting personal data used in AI development and deployment.
+    Transparency and explainability: Making AI models more understandable to address concerns about bias and accountability.
 
-  Transparency and explainability: Making AI models more understandable to address concerns about bias and accountability.
+    Safety and security: Ensuring the safety of AI systems in critical applications like healthcare or autonomous vehicles.
 
-  Safety and security: Ensuring the safety of AI systems in critical applications like healthcare or autonomous vehicles.
+    Algorithmic fairness and non-discrimination: Preventing discriminatory outcomes arising from biased AI systems.
 
-  Algorithmic fairness and non-discrimination: Preventing discriminatory outcomes arising from biased AI systems.
-
-  Human oversight and accountability: Establishing clear lines of responsibility for decisions made by AI systems.
+    Human oversight and accountability: Establishing clear lines of responsibility for decisions made by AI systems.
   
 
 **AI News**
