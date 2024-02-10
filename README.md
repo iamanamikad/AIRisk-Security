@@ -1,4 +1,4 @@
-# AIRisk-Security
+# AIRiskandSecurity
 Resources for Managing Risk and Security in the AI World
 
 **Global Frameworks**
