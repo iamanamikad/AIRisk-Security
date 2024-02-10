@@ -66,7 +66,7 @@ Geographical-based
     
   United States
   
-    Executive Order on Artificial Intelligence
+    White House Executive Order on Artificial Intelligence
     
     National Artificial Intelligence Research and Development Strategic Plan
     
