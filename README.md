@@ -46,7 +46,7 @@ Risk-based
 
 Sector-based
 
-  Medical AI
+  Healthcare
   
     US Food and Drug Administration (FDA) guidelines for medical AI
     
