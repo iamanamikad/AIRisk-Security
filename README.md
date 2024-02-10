@@ -1,4 +1,4 @@
-# AIRiskandSecurity
+# AI Risk and Security
 Resources for Managing Risk and Security in the AI World
 
 **Global Frameworks**
